@@ -1,0 +1,40 @@
+	.listing {
+		display: none;
+	}
+	.foo2 {
+		display: none;
+	}
+	.foo3 {
+		display: none;
+	}
+	.foo4 {
+		left: 0px;
+		width: 100vw;
+	}
+	.chat_bar {
+		left: 0px;
+		width: 100vw;
+	}
+	.chat_form_text {
+		width: calc(100vw - 64px - 42px - 42px - 42px);
+	}
+	.chat_form_send {
+		left: calc(100vw - 48px - 12px);
+	}
+	.chat_form_emoji {
+		left: calc(100vw - 48px - 12px - 42px);
+	}
+	.foo6 {
+		display: none;
+	}
+
+	.mobile_show_channels {
+		left: 6px;
+		top: 6px;
+		width: 32px;
+		height: 32px;
+		z-index: 50;
+		background: #47332f;
+		position: absolute;
+		cursor: pointer;
+	}
